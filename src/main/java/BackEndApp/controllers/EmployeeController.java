@@ -43,7 +43,6 @@ public class EmployeeController {
 		String Result="Error";
 		if(emp != null)
 			Result=empservice.updateEmployee(emp);
-		System.out.println("Hello");
 		return Result;
 	}
 }
