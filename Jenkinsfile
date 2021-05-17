@@ -15,7 +15,6 @@ pipeline {
         echo "Deploying Project";
         
         
-        
     }
     }
 
